@@ -6,4 +6,5 @@ scipy==1.12.0
 SpeechRecognition==3.10.1
 numpy==1.26.4
 watchdog==4.0.0
+portaudio19-dev
 pyaudio==0.2.13
